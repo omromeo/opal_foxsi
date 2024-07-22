@@ -1,17 +1,6 @@
 # opal_foxsi
 Optical Alignment Python Code for the FOXSI Sounding Rocket Mission
 
-############################################################
-   XX                    /\                   ,'|
- XX  XX ------------ o--'O `.                /  /
-   XX                 `--.   `-----------._,' ,'
-                          \              ,---'
-                           ) )    _,--(  |
-                          /,^.---'     )/\\
-                         ((   \\      ((  \\
-                          \)   \)      \) (/   
-############################################################
-
 ## Image File Directory
 The images should be placed in the following directory format:
 base directory -> optic team -> "MM-DD-YY" -> "POS#_RUN#.png"
