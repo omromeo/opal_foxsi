@@ -1,5 +1,5 @@
-# opal_foxsi
-Optical Alignment Python Code for the FOXSI Sounding Rocket Mission
+# OPAL FOXSI
+**OP**tical **AL**ignment Python Code for the FOXSI Sounding Rocket Mission
 
 ## Image File Directory
 The images should be placed in the following directory format:
