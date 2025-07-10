@@ -32,9 +32,11 @@ Note that one ring includes the inner and outer edge.
 The possible methods include maxminratio, maxratio, or centerratio.
 The final angle asymmetry is outputted in the terminal in degrees, with the difference amount in arcminutes.
 
-
 ## Simulation Comparison
 The images from the ray tracing simulations should be in the 'Sims' folder under the optics team folder, corresponding to each optic.
 Each image file should be denoted as 'angle_##.png'.
 
+## Shim Finder
+IDL code to find positions of shims based on various inputs to align optics.
+Goes through all different combinations of shim positions to determine best alignment possible using discrete shim values.
 
