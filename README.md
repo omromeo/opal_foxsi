@@ -40,6 +40,6 @@ Each image file should be denoted as 'angle_##.png'.
 IDL code to find positions of shims based on various inputs to align optics.
 Goes through all different combinations of shim positions to determine best alignment possible using discrete shim values.
 <div style="text-align: center;">
-  <img src="images/FOXSI_Optics_ReferenceFig.png" alt="FOXSI Optics" width="200"/>
+  <img src="images/FOXSI_Optics_ReferenceFig.png" alt="FOXSI Optics" width="500"/>
 </div>
 
