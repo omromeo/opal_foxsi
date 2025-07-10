@@ -37,7 +37,7 @@ The images from the ray tracing simulations should be in the 'Sims' folder under
 Each image file should be denoted as 'angle_##.png'.
 
 ## Shim Finder
-IDL code to find positions of shims based on various inputs to align optics.
+IDL code to find positions of shims based on various inputs to align optics (*foxsi_optic_align.pro*).
 Goes through all different combinations of shim positions to determine best alignment possible using discrete shim values.
 <div style="text-align: center;">
   <img src="images/FOXSI_Optics_ReferenceFig.png" alt="FOXSI Optics" width="500"/>
