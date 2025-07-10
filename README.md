@@ -39,5 +39,5 @@ Each image file should be denoted as 'angle_##.png'.
 ## Shim Finder
 IDL code to find positions of shims based on various inputs to align optics.
 Goes through all different combinations of shim positions to determine best alignment possible using discrete shim values.
-![alt text](https://github.com/omromeo/opal_foxsi/edit/main/Images/FOXSI_Optics_ReferenceFig.pdf)
+([https://github.com/omromeo/opal_foxsi/edit/main/Images/FOXSI_Optics_ReferenceFig.pdf](https://github.com/omromeo/opal_foxsi/blob/main/images/FOXSI_Optics_ReferenceFig.pdf))
 
